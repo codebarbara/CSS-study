@@ -1,2 +1,2 @@
 # CSS-study
-códigos de estudo
+códigos para estudo - 
